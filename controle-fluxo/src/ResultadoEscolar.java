@@ -1,7 +1,7 @@
 public class ResultadoEscolar {
     public static void main(String[] args) {
         
-        int nota = 5;
+        int nota = 7;
 
         if (nota >= 7) {
             System.out.println("Aprovado!!!");  
@@ -9,7 +9,6 @@ public class ResultadoEscolar {
         }else if (nota >= 5 && nota < 7) 
             System.out.println("Prova de Recuperação!!!");  
             
-        
         else
             System.out.println("Reprovado!!");
         
