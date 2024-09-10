@@ -12,11 +12,7 @@ public class ExemploForArray {
         for(String aluno : alunos){
             System.out.println("Nome do aluno: " + alunos);
         }
-    
-
       
-
-        
     }
     
 }
