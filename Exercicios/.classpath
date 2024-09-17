@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="calculo-de-aposentadoria/src"/>
+	<classpathentry kind="src" path="calculo-de-desconto/src"/>
+	<classpathentry kind="src" path="calculo-maior-numero/src"/>
+	<classpathentry kind="src" path="sistema-de-faixa-etaria/src"/>
+	<classpathentry kind="src" path="sistema-de-votar/src"/>
+	<classpathentry kind="src" path="sistema-escolar/src"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="verificacao-de-numero/src"/>
+	<classpathentry kind="src" path="verificar-strings/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
